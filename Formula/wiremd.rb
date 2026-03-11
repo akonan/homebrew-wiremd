@@ -2,7 +2,7 @@ class Wiremd < Formula
   desc "Text-first UI design tool - Create wireframes using Markdown"
   homepage "https://github.com/akonan/wiremd"
   url "https://registry.npmjs.org/wiremd/-/wiremd-0.1.5.tgz"
-  sha256 "a270d272281c20c532677c363380a67561d9e650ad3015f49fc3a264be5e1f26"
+  sha256 "38b8f216e9e7998394a088f4fbcf77acbfdb08d4df892d5ac7540476c8c9c9ee"
   license "MIT"
 
   depends_on "node"
